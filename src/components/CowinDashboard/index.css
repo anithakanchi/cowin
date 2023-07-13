@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  padding: 20px;
+  min-height: 100vh;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-top: 24px;
+  margin-right: 5px;
+}
+.logo-name {
+  color: #2cc6c6;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.logo-container {
+  display: flex;
+}
+.heading {
+  color: white;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.products-loader-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 70vh;
+}
+.card-container {
+  width: 90%;
+  background-color: #1c1c2b;
+  margin: 20px;
+  margin-right: 10px;
+  padding: 10px;
+}
+.vaccination-results {
+  display: flex;
+  flex-direction: column;
+}
+.name-type {
+  color: #cbd5e1;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
